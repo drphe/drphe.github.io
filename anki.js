@@ -12,7 +12,7 @@ const CONFIG = {
     DEFAULT_VOICE: 'alloy',
     DEFAULT_LANGUAGE: 'en-US',
     DEFAULT_NEURAL_VOICE: 'en-US-AndrewMultilingualNeural',
-    WORD_LIMIT: 2000,
+    WORD_LIMIT: 20000000,
     DAILY_LIMIT_MESSAGE: `
         <div>
             <p>You have reached your daily AI usage limit. Please enter an API key to continue using the service.</p>
